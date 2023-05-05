@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCommandLineApp", "MyCommandLineApp.csproj", "{60EE439B-E189-4AE0-BAA3-543AA1A9781D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EE439B-E189-4AE0-BAA3-543AA1A9781D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EE439B-E189-4AE0-BAA3-543AA1A9781D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EE439B-E189-4AE0-BAA3-543AA1A9781D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EE439B-E189-4AE0-BAA3-543AA1A9781D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BDCD01-1A3E-488A-B925-708F679AB4A7}
+	EndGlobalSection
+EndGlobal
